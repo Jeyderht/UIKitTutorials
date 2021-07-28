@@ -73,7 +73,7 @@
                     </StackPanel>
                 </Grid>
             </Border>
-            <!-- Start: GridColum Left-->
+            <!-- End: GridColum Left-->
             
             <!-- Start: GridColumn Rigth -->
             <Grid Grid.Column="1">
