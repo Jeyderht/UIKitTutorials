@@ -103,7 +103,7 @@
                 
                 <Border Grid.Row="1" Margin="10">
                     <Frame x:Name="PagesNavigation" NavigationUIVisibility="Hidden">
-                        <!-- Content Page -->
+                        <!-- Page Content -->
                     </Frame>
                 </Border>
             </Grid>
